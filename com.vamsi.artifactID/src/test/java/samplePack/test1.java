@@ -1,3 +1,4 @@
+// comments should be added in script
 package samplePack;
 
 import org.openqa.selenium.WebDriver;
